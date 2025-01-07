@@ -1,8 +1,0 @@
-# Environment
-.env
-.venv
-env/
-venv/
-ENV/
-app.log
-user_interactions.log
